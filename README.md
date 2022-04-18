@@ -1,2 +1,2 @@
 # Projects
-A repository with some project made by myself. 
+A repository with some projects made by myself. 
