@@ -1,2 +1,2 @@
 # Projects
-A project of Machine Learning using Python with DSTI. 
+A project of Machine Learning using Python. 
