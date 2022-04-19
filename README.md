@@ -1,2 +1,3 @@
-# Book rating prediction model
-A project of Machine Learning using Python. 
+# BookRatingPrediction
+
+A python project where we tested and trained different machine learning model to predict books'rate. 
