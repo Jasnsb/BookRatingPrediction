@@ -1,2 +1,2 @@
 # Projects
-A repository with a project of Machine Learning. 
+A project of Machine Learning using Python with DSTI. 
