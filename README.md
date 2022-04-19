@@ -1,2 +1,2 @@
 # Projects
-A repository with some projects made by myself. 
+A repository with a project of Machine Learning. 
