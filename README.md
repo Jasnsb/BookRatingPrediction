@@ -4,6 +4,6 @@ A python project where we tested and trained different machine learning model to
 
 ## Installation (local)
 
-Intall requirements 
+Install requirements 
 - Activate a virtual environment (this version was tested on python 3.6 )
 - pip install -r requirements.txt
