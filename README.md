@@ -20,7 +20,7 @@ The split was done in 85:15 ratio (85% for training, 15% for testing).
 To evaluate classification models, we used :
 - Precision
 - Recall
-- F1 score
+- F1-score
 
 To evaluate the regression model, we used :
 - Mean absolute error 
