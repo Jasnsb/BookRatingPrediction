@@ -1,6 +1,6 @@
 # Overview
 
-Training classification models (Logistic Regression, Decision Tree, Random Forest) to predict the category of a book based on its characteristics, and tried to improve outcomes. In a second part, we trained a Linear regression model to predict the exact value of the average rating.
+Solving few business questions and training classification models (Logistic Regression, Decision Tree, Random Forest) to predict the category of a book based on its characteristics, and tried to improve outcomes. In a second part, we trained a Linear regression model to predict the exact value of the average rating. 
 
 ## Repository
 Link to the project : https://github.com/Jasnsb/BookRatingPrediction/
