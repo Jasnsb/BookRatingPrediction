@@ -1,6 +1,8 @@
-Project : Book rating prediction model
-By Jason NSIMBA (jason.nsimba@edu.dsti.institute)
+Project : Book rating prediction model.
 
+By Jason NSIMBA (jason.nsimba@edu.dsti.institute).
+
+## Resume
 In this project, we worked with a dataset from Goodreads in order to set up an efficient prediction model for book rating. Before going on machine learning models which are future oriented, we decided to start with a short data analysis focused on the past and the present. Consequently, the project is subdivided in two parts : Data Analysis, and Prediction. 
 
 ## Part I : Data Analysis
