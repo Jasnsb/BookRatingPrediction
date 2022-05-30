@@ -6,7 +6,7 @@ Solving few business questions and training classification models (Logistic Regr
 Link to the project : https://github.com/Jasnsb/BookRatingPrediction/
 
 ## Description & way of thinking
-A short report was build in order to highlight my way of thinking and my methodology to do this project. You can find it under the name "report_JN_Goodreads.md"
+A short report was build in order to highlight my way of thinking and my methodology to do this project. You can find it here : https://github.com/Jasnsb/BookRatingPrediction/blob/main/report_JN_Goodreads.md
 
 ## Data
 Main data come from the Goodreads website (https://www.goodreads.com/). 
