@@ -10,7 +10,7 @@ A short report was build in order to highlight my way of thinking and my methodo
 
 ## Data
 Main data come from the Goodreads website (https://www.goodreads.com/). 
-We had used additional data from https://github.com/kart-projects/Goodreads-books .
+We used additional data from https://github.com/kart-projects/Goodreads-books .
 
 ## Model
 ### Evaluation Data 
